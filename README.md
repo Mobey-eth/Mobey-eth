@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on [Solidity, Frontend
 Projects](https://github.com/Mobey-eth/Constant-Product-AMM-Market-Maker-)
 
-- 🌱 I’m currently learning **JavaScript, React and Css**
+- 🌱 I’m currently learning **JavaScript, React and CSS**
 
 - 👯 I’m looking to collaborate on **Solidity, DApps, NFT projects**
 
